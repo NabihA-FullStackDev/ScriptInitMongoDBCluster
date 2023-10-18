@@ -4,6 +4,7 @@ This is a Script Bash to initialized a small MongoDB cluster using Docker's cont
 # Requirements
 - Docker installed -> or follow the [link](https://docs.docker.com/engine/install/)
 - Node installed -> same [here](https://nodejs.org/fr/download)
+- MongoDB Shell -> [here](https://www.mongodb.com/docs/mongodb-shell/)
 
 # How to
 
