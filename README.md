@@ -27,4 +27,4 @@ Note
 -
 It will always use the latest update for mongo but you can change that easily
 
-line (49,95): mongo:latest by any version you want
+line (49,95): `mongo:latest` by any version you want
