@@ -25,6 +25,6 @@ Enjoy, Your Cluster is ready
 
 Note
 -
-It will always use the latest update for mongo but you can change that easily
+It will always use the latest version of Mongo, but you can easily change that
 
-line (49,95): `mongo:latest` by any version you want
+line (49,95): `mongo:latest` by any version you want.
