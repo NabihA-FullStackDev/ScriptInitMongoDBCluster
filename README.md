@@ -20,7 +20,7 @@ chmod+x ini-mongodb-cluster.sh`
 ### Then follow the instructions 
 1. Give a name to the cluster network
 1. Choose a name for every containers that will be created by this script
-1. Select the number of mongoDB container you will create (min 3, max 9)
+1. Select the number of MongoDB container you will create (min 3, max 9)
 Enjoy, Your Cluster is ready
 
 Note
